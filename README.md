@@ -4,7 +4,7 @@
 
 A skill for AI agents that write and maintain Lua code for Garry's Mod.
 
-We actively use it while developing TOT-city. New code follows the Code Style in [`SKILL.md`](SKILL.md); focused edits preserve the conventions of the existing project.
+Actively used in my projects. New code follows the Code Style in [`SKILL.md`](SKILL.md); focused edits preserve the conventions of the existing project.
 
 ## Use
 
